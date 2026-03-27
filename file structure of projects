@@ -1,0 +1,7 @@
+rag-pdf-chatbot
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── data
+    └── document.pdf
